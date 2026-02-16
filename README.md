@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/badge/Website-paolocostanzo.it-blue?style=flat-square)](https://www.paolocostanzo.it)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/paolocostanzoit)
-[![Email](https://img.shields.io/badge/Email-p.costanzo%40codertd.com-red?style=flat-square&logo=gmail)](mailto:p.costanzo@codertd.com)
+[![Email](https://img.shields.io/badge/Email-info%40paolocostanzo.com-red?style=flat-square&logo=gmail)](mailto:info@paolocostanzo.com)
 
 ---
 
@@ -26,42 +26,39 @@ My approach is simple: **understand how systems break to build them unbreakable.
 
 ## 🛠️ Core Expertise
 
-```python
-skills = {
-    "offensive_security": ["Penetration Testing", "Web App Hacking", "Network Security"],
-    "cloud_platforms": ["AWS", "Azure", "Google Cloud"],
-    "ai_security": ["LLM Security", "Prompt Injection", "Adversarial ML"],
-    "languages": ["Python", "Bash", "JavaScript", "Go", "C/C++"],
-    "tools": ["Burp Suite", "Metasploit", "Nmap", "Wireshark", "Docker", "Kubernetes"]
-}
-```
+**Offensive Security:** Penetration Testing • Web App Hacking • Network Security
+
+**Cloud Platforms:** AWS • Azure • Google Cloud
+
+**AI Security:** LLM Security • Prompt Injection • Adversarial ML
+
+**Languages:** Python • Bash • JavaScript • Go • C/C++
+
+**Tools:** Burp Suite • Metasploit • Nmap • Wireshark • Docker • Kubernetes
 
 ---
 
-## 🏆 Certifications & Training
+## 🏆 Certifications
 
-🎓 **Current Path:**
-- TryHackMe: Jr Penetration Tester (In Progress)
-- eJPT — Targeting August 2026
-- CEH v13 — Targeting March 2027
-- OSCP — Targeting November 2027
-
-🔐 **Achieved:**
-- CyberOps Associate | Ethical Hacker | FortiGate 7.6 | Cloud Security
+- CyberOps Associate (Cisco)
+- Ethical Hacker
+- FortiGate 7.6 Administrator
+- Cloud Security Certificate
+- BLS-D
 
 ---
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paolocostanzo&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paolocostanzo&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=paolocostanzo&theme=radical&hide_border=true&background=0D1117)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=paolocostanzo&theme=dark&hide_border=true&background=0D1117)
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔍 [**journey**](https://github.com/paolocostanzo/journey) — My public cybersecurity learning journey, weekly progress, and writeups
+- 🔍 [**journey**](https://github.com/paolocostanzo/journey) — My public cybersecurity learning journey and writeups
 - ☁️ [**cloud-security-portfolio**](https://github.com/paolocostanzo/cloud-security-portfolio) — Cloud security architecture and IaC projects
 
 ---
@@ -78,11 +75,10 @@ I believe in **practical, hands-on security**. Theory matters, but exploitation 
 
 - 💼 Open to **remote penetration testing engagements** (USA/UK/EU)
 - 🎓 Available for **cybersecurity mentoring** and consulting
-- ✍️ Publishing **weekly security writeups** and insights
-- 🗣️ Speaking at security conferences and workshops
+- ✍️ Publishing **security writeups** and insights
 
 **Want to collaborate on security research, bug bounty hunting, or need penetration testing services?**
-📧 Reach out: [p.costanzo@codertd.com](mailto:p.costanzo@codertd.com)
+📧 Reach out: [info@paolocostanzo.com](mailto:info@paolocostanzo.com)
 
 ---
 
@@ -90,6 +86,6 @@ I believe in **practical, hands-on security**. Theory matters, but exploitation 
 
 ### 🔐 Always Learning. Always Hacking. Always Securing.
 
-![Visitor Count](https://komarev.com/ghpvc/?username=paolocostanzo&color=F85D7F&style=flat-square&label=Profile+Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=paolocostanzo&color=58A6FF&style=flat-square&label=Profile+Views)
 
 </div>
