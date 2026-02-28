@@ -1,11 +1,11 @@
 # Paolo Costanzo
 
-**Cybersecurity Specialist | Ethical Hacker | Security Educator**
-📍 Turin, Italy | 🌐 Remote Worldwide
+**Chief Endgame Officer at CoDe RTD | IT & CyberSec Professor | Cloud AI Security | Hacking**
+📍 Panama | 🌐 Remote Worldwide
 
 [![Website](https://img.shields.io/badge/Website-paolocostanzo.it-blue?style=flat-square)](https://www.paolocostanzo.it)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/paolocostanzoit)
-[![Email](https://img.shields.io/badge/Email-info%40paolocostanzo.com-red?style=flat-square&logo=gmail)](mailto:info@paolocostanzo.com)
+[![Email](https://img.shields.io/badge/Email-info%40paolocostanzo.com-red?style=flat-square&logo=gmail)](mailto:info@paolocostanzo.it)
 
 ---
 
