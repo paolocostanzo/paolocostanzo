@@ -40,17 +40,20 @@ My approach is simple: **understand how systems break to build them unbreakable.
 
 ## 🏆 Certifications
 
-- CyberOps Associate (Cisco)
-- Ethical Hacker
-- FortiGate 7.6 Administrator
-- Cloud Security Certificate
+- MITRE ATT&CK Security Stack Mappings: AWS @AttackIQ
+- Network Security @Cisco
+- AI Foundations Executive @Red Hat
+- Strategic Cybersecurity Management @AttackIQ
+- CyberOps Associate @Cisco
+- Ethical Hacker @Cisco
+- API PenTesting @ApiSec University
+- FortiGate 7.6 Administrator @Fortinet
+- Associate Cybersecurity @Fortinet
 - BLS-D
 
 ---
 
 ## 📊 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=paolocostanzo&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB)
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=paolocostanzo&theme=dark&hide_border=true&background=0D1117)
 
