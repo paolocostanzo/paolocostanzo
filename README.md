@@ -230,13 +230,13 @@ class PaoloCostanzo:
 ## `> cat /var/www/blog/recent.log`
 
 <!-- BLOG-POST-LIST:START -->
-- ☁️ [I Wanted to Write a Quick Article. I Dismantled a Criminal Org Instead.](https://paolocostanzo.github.io/crypto-drainer-svuotatasche/)
-- 🇮🇷 [One GET, 169.254.169.254, IAM Credentials Served Fresh](https://paolocostanzo.github.io/ssrf-imds-ec2-credentials/)
-- 🌐 [€40, 2 Minutes, and a Student Who&#39;ll Never Trust Free Wi-Fi Again](https://paolocostanzo.github.io/cardputer-adv-wifi-security/)
-- 💀 [Operation Epic Fury: What the Reports Missed](https://paolocostanzo.github.io/operation-epic-fury-cyber-war-iran/)
-- 📡 [TIM, GeForce Now and the ICMP Black Hole](https://paolocostanzo.github.io/tim-packet-loss-gfn/)
-- 🔴 [AWS IAM: The 5 Most Common Misconfigurations](https://paolocostanzo.github.io/aws-iam-misconfiguration/)
-- 🔴 [Prompt Injection on Enterprise LLMs: How It Really Works](https://paolocostanzo.github.io/prompt-injection-llm/)<!-- BLOG-POST-LIST:END -->
+- ☁️ [I Wanted to Write a Quick Article. I Dismantled a Criminal Org Instead.](https://paolocostanzo.github.io/crypto-drainer-svuotatasche/) — *$pubDate*
+- 🇮🇷 [One GET, 169.254.169.254, IAM Credentials Served Fresh](https://paolocostanzo.github.io/ssrf-imds-ec2-credentials/) — *$pubDate*
+- 🌐 [€40, 2 Minutes, and a Student Who&#39;ll Never Trust Free Wi-Fi Again](https://paolocostanzo.github.io/cardputer-adv-wifi-security/) — *$pubDate*
+- 💀 [Operation Epic Fury: What the Reports Missed](https://paolocostanzo.github.io/operation-epic-fury-cyber-war-iran/) — *$pubDate*
+- 📡 [TIM, GeForce Now and the ICMP Black Hole](https://paolocostanzo.github.io/tim-packet-loss-gfn/) — *$pubDate*
+- 🔴 [AWS IAM: The 5 Most Common Misconfigurations](https://paolocostanzo.github.io/aws-iam-misconfiguration/) — *$pubDate*
+- 🔴 [Prompt Injection on Enterprise LLMs: How It Really Works](https://paolocostanzo.github.io/prompt-injection-llm/) — *$pubDate*<!-- BLOG-POST-LIST:END -->
 
 > 📖 **[Read all posts → paolocostanzo.github.io](https://paolocostanzo.github.io)**
 
