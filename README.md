@@ -1,6 +1,6 @@
 <!-- 🏴 FLAG{y0u_f0und_my_pr0f1l3} — if you're here, you're one of us -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=FF6A00&height=250&section=header&text=Sono%20Paolo%20Costanzo.&fontSize=50&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&desc=Chief%20Endgame%20Officer%20%7C%20Security%20Researcher%20%7C%20Professor&descSize=15&descAlignY=70&descColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=FF6A00&height=250&section=header&text=I'm%20Paolo%20Costanzo.&fontSize=50&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn&desc=Chief%20Endgame%20Officer%20%7C%20Security%20Researcher%20%7C%20Professor&descSize=15&descAlignY=70&descColor=FFFFFF" width="100%"/>
 
 <div align="center">
 
