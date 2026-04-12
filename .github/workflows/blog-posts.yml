@@ -2,7 +2,7 @@ name: Latest Blog Posts
 
 on:
   schedule:
-    - cron: "0 2 * * *" # every day at 02:00 UTC
+    - cron: "0 2 * * *"
   workflow_dispatch:
 
 jobs:
@@ -21,7 +21,6 @@ jobs:
           feed_list: "https://paolocostanzo.github.io/feed.xml"
           max_post_count: 7
           template: "$newline- $randomEmoji(🔴,☁️,🤖,📡,🇮🇷,🌐,💀) [$title]($url) — *$date*"
-          date_format: "M/yyyy"
           comment_tag_name: "BLOG-POST-LIST"
           commit_message: "chore: update blog posts in README"
           committer_username: "github-actions[bot]"
