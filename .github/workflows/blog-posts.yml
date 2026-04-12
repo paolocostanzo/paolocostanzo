@@ -18,9 +18,9 @@ jobs:
       - name: Pull latest blog posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://paolocostanzo.github.io/feed.xml,https://paolocostanzo.github.io/atom.xml"
+          feed_list: "https://paolocostanzo.github.io/feed.xml"
           max_post_count: 7
-          template: "$newline- $randomEmoji(🔴,☁️,🤖,📡,🇮🇷,🌐,💀) [$title]($url) — *$date*"
+          template: "$newline- $randomEmoji(\ud83d\udd34,☁️,\ud83e\udd16,\ud83d\udce1,\ud83c\uddee\ud83c\uddf7,\ud83c\udf10,\ud83d\udc80) [$title]($url) — *$date*"
           date_format: "MMM YYYY"
           comment_tag_name: "BLOG-POST-LIST"
           commit_message: "chore: update blog posts in README"
