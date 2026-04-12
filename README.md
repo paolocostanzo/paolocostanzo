@@ -230,13 +230,13 @@ class PaoloCostanzo:
 ## `> cat /var/www/blog/recent.log`
 
 <!-- BLOG-POST-LIST:START -->
-- ☁️ [I Wanted to Write a Quick Article. I Dismantled a Criminal Org Instead.](https://paolocostanzo.github.io/crypto-drainer-svuotatasche/) — *000 YYYY*
-- 🇮🇷 [One GET, 169.254.169.254, IAM Credentials Served Fresh](https://paolocostanzo.github.io/ssrf-imds-ec2-credentials/) — *000 YYYY*
-- 🌐 [€40, 2 Minutes, and a Student Who&#39;ll Never Trust Free Wi-Fi Again](https://paolocostanzo.github.io/cardputer-adv-wifi-security/) — *000 YYYY*
-- 💀 [Operation Epic Fury: What the Reports Missed](https://paolocostanzo.github.io/operation-epic-fury-cyber-war-iran/) — *000 YYYY*
-- 📡 [TIM, GeForce Now and the ICMP Black Hole](https://paolocostanzo.github.io/tim-packet-loss-gfn/) — *000 YYYY*
-- 🔴 [AWS IAM: The 5 Most Common Misconfigurations](https://paolocostanzo.github.io/aws-iam-misconfiguration/) — *000 YYYY*
-- 🔴 [Prompt Injection on Enterprise LLMs: How It Really Works](https://paolocostanzo.github.io/prompt-injection-llm/) — *000 YYYY*<!-- BLOG-POST-LIST:END -->
+- ☁️ [I Wanted to Write a Quick Article. I Dismantled a Criminal Org Instead.](https://paolocostanzo.github.io/crypto-drainer-svuotatasche/) — *07 000 2026*
+- 🇮🇷 [One GET, 169.254.169.254, IAM Credentials Served Fresh](https://paolocostanzo.github.io/ssrf-imds-ec2-credentials/) — *31 000 2026*
+- 🌐 [€40, 2 Minutes, and a Student Who&#39;ll Never Trust Free Wi-Fi Again](https://paolocostanzo.github.io/cardputer-adv-wifi-security/) — *21 000 2026*
+- 💀 [Operation Epic Fury: What the Reports Missed](https://paolocostanzo.github.io/operation-epic-fury-cyber-war-iran/) — *17 000 2026*
+- 📡 [TIM, GeForce Now and the ICMP Black Hole](https://paolocostanzo.github.io/tim-packet-loss-gfn/) — *10 000 2026*
+- 🔴 [AWS IAM: The 5 Most Common Misconfigurations](https://paolocostanzo.github.io/aws-iam-misconfiguration/) — *01 000 2026*
+- 🔴 [Prompt Injection on Enterprise LLMs: How It Really Works](https://paolocostanzo.github.io/prompt-injection-llm/) — *01 000 2026*<!-- BLOG-POST-LIST:END -->
 
 > 📖 **[Read all posts → paolocostanzo.github.io](https://paolocostanzo.github.io)**
 
