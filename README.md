@@ -174,7 +174,7 @@ class PaoloCostanzo:
 
 <div align="center">
 
-<img width="420" src="https://github-readme-streak-stats-eight-azure.vercel.app/?user=paolocostanzo&theme=dark&hide_border=true&background=0D1117&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00&sideNums=FFFFFF&sideLabels=888888&dates=555555" alt="streak" />
+<img width="420" src="https://streak-stats.demolab.com/?user=paolocostanzo&theme=dark&hide_border=true&background=0D1117&ring=FF6A00&fire=FF6A00&currStreakLabel=FF6A00&sideNums=FFFFFF&sideLabels=888888&dates=555555" alt="streak" />
 
 </div>
 
