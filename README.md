@@ -230,13 +230,13 @@ class PaoloCostanzo:
 ## `> cat /var/www/blog/recent.log`
 
 <!-- BLOG-POST-LIST:START -->
-- ☁️ [I Wanted to Write a Quick Article. I Dismantled a Criminal Org Instead.](https://paolocostanzo.github.io/crypto-drainer-svuotatasche/)
-- 🇮🇷 [One GET, 169.254.169.254, IAM Credentials Served Fresh](https://paolocostanzo.github.io/ssrf-imds-ec2-credentials/)
-- 🌐 [€40, 2 Minutes, and a Student Who&#39;ll Never Trust Free Wi-Fi Again](https://paolocostanzo.github.io/cardputer-adv-wifi-security/)
-- 💀 [Operation Epic Fury: What the Reports Missed](https://paolocostanzo.github.io/operation-epic-fury-cyber-war-iran/)
-- 📡 [TIM, GeForce Now and the ICMP Black Hole](https://paolocostanzo.github.io/tim-packet-loss-gfn/)
-- 🔴 [AWS IAM: The 5 Most Common Misconfigurations](https://paolocostanzo.github.io/aws-iam-misconfiguration/)
-- 🔴 [Prompt Injection on Enterprise LLMs: How It Really Works](https://paolocostanzo.github.io/prompt-injection-llm/)<!-- BLOG-POST-LIST:END -->
+- ☁️ [Wearable Biometric Telemetry: Technical Tear-down and Data Supply Chain](https://paolocostanzo.github.io/oura-palantir-biometrici/)
+- 🇮🇷 [Coordinated Abuse Network on Telegram: Content Moderation, Payment Rails and Regulatory Response](https://paolocostanzo.github.io/rape-academy-cnn-threat-intel/)
+- 🌐 [Anatomy of a TRON Wallet Drainer-as-a-Service](https://paolocostanzo.github.io/crypto-drainer-svuotatasche/)
+- 💀 [SSRF → IMDSv1: Exfiltrating IAM Credentials from an EC2 Instance](https://paolocostanzo.github.io/ssrf-imds-ec2-credentials/)
+- 📡 [Evil Portal, Beacon Spam and Deauth: a €40 Hardware Wi-Fi Lab](https://paolocostanzo.github.io/cardputer-adv-wifi-security/)
+- 🔴 [Operation Epic Fury: Independent OSINT Analysis of a Dual-Platform Campaign](https://paolocostanzo.github.io/operation-epic-fury-cyber-war-iran/)
+- 🔴 [TIM, GeForce Now and the ICMP Black Hole](https://paolocostanzo.github.io/tim-packet-loss-gfn/)<!-- BLOG-POST-LIST:END -->
 
 > 📖 **[Read all posts → paolocostanzo.github.io](https://paolocostanzo.github.io)**
 
