@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/paolocostanzo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1000&color=FF6A00&center=true&vCenter=true&repeat=true&width=480&height=45&lines=%24+whoami+%E2%86%92+CEO+%40+CoDe+RTD;%24+nmap+%E2%86%92+3+patents+%7C+2+papers;%24+uptime+%E2%86%92+hacking+since+2006;%24+cat+flag.txt+%E2%86%92+you+found+me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1000&color=FF6A00&center=true&vCenter=true&repeat=true&width=480&height=45&lines=%24+whoami+%E2%86%92+CEO+%40+CoDe+RTD;%24+nmap+%E2%86%92+2+patents+%7C+2+papers;%24+uptime+%E2%86%92+hacking+since+2006;%24+cat+flag.txt+%E2%86%92+you+found+me" />
 </a>
 
 <br/>
@@ -32,12 +32,16 @@ class PaoloCostanzo:
     aka         = ["nonèCostanzo", "the guy who debugs criminal orgs on Easter"]
     location    = "🇵🇦 Panama — 🌐 Remote Worldwide"
     company     = "CoDe - Research & Technological Development"
-    focus       = ["Cloud & AI Security", "Offensive Security", "Threat Intelligence", "OSINT"]
-    teaching    = ["ITS ICT Piemonte", "Forte Chance ETS", "Istituti Galileo Galilei"]
+    focus       = ["Cloud & AI Product Security", "Agentic AI / LLM / MCP",
+                   "Offensive Validation", "Threat Intelligence", "OSINT"]
+    cloud       = ["AWS (Academy Educator)", "Azure", "IAM & identity", "IaC / GitOps"]
+    teaching    = ["ITS ICT Piemonte", "Forte Chance ETS"]
+    mentoring   = ["Startup Geeks", "SecurityCert — Board of Advisors"]
     languages   = ["Python", "Bash", "JavaScript", "Go", "C/C++"]
-    speaks      = {"it": "Native", "en": "Professional", "fr": "enough to order croissants"}
+    speaks      = {"it": "Native", "en": "C1", "fr": "enough to order croissants"}
     side_quests = ["Scuba Diving Instructor (CMAS/NADD/DAN)", "trained with ex-Navy GOI operator"]
     fun_fact    = "spent Easter 2026 infiltrating Telegram crypto-drainer channels instead of eating colomba"
+    now_playing = "CTF writeups — a room a day, flags redacted on purpose"
     philosophy  = "I am always doing that which I cannot do, in order that I may learn how to do it."
 ```
 
@@ -51,23 +55,26 @@ class PaoloCostanzo:
    Active: active (running) since Aug 2020
    Tasks:  4 (limit: ∞)    Memory: caffeinated
 
-   ├─ PID 1  [CoDe RTD] Co-Founder & CEO
+   ├─ PID 1  [CoDe RTD] Co-Founder & CEO — since Aug 2020
    │    ├─ AI-powered SaaS: digital content & identity protection
    │    ├─ Multi-region AWS infra (encrypted, scalable, GDPR-compliant)
    │    ├─ AI-driven abuse detection at scale: accounts, copyright, piracy
    │    ├─ META tech partner — anti-piracy enforcement on social platforms
+   │    ├─ €1M raised · 50+ customers across Europe
    │    └─ E2E encryption · granular IAM · secure cloud governance
    │
-   ├─ PID 2  [Professor] IT & CyberSec Educator
-   │    ├─ ITS ICT Piemonte → Pentest & Network Security (SOC/CySec track)
-   │    ├─ Forte Chance ETS → Networking, Cisco labs, threat mgmt
-   │    ├─ Istituti Galilei → Systems, Networks, Telecom
+   ├─ PID 2  [Professor] Cybersecurity & AWS — ITS ICT Piemonte, since Mar 2026
+   │    ├─ Course lead: Cyber Security Specialist · SOC Analyst · AWS Cloud Architect
+   │    ├─ AWS → architecture, Well-Architected, IaC (CloudFormation/CDK/Terraform)
+   │    ├─ Forte Chance ETS → networking, Cisco labs, threat mgmt (since Jul 2025)
+   │    ├─ Istituti Galilei → systems, networks, telecom (2020 → Jun 2026, closed)
    │    └─ Methodology: recon → enum → exploit → report (yes, even in class)
    │
-   ├─ PID 3  [Researcher] Threat Intel & OSINT
+   ├─ PID 3  [Researcher] Cloud & AI Security · Threat Intel
    │    ├─ Iranian APT campaigns — found what Unit 42 & CloudSEK missed
    │    ├─ Crypto-drainer DaaS: $13,960 traced, Telegram infra infiltrated
-   │    ├─ CVE analysis · malware reversing · C2 mapping
+   │    ├─ MCP spec conformance: an executable test for a MUST NOT (13/13)
+   │    ├─ CTF writeups — a room a day, methodology over flags
    │    └─ "I take things apart and watch what moves at the edges"
    │
    └─ PID 4  [Side Quest] Scuba Diving Instructor
@@ -82,12 +89,27 @@ class PaoloCostanzo:
 
 | Year | Entry |
 |------|-------|
-| 🏅 2026 | **Global 100 Winner** — Top 100 cybersecurity professionals worldwide |
-| 🏅 2024 | **Up2Stars Intesa Sanpaolo** — Selected innovative startup |
-| 🥇 2022 | **1st Place AI Week** — AI innovation competition |
+| 🏅 2026 | **Global 100 Winner** — GPMG, *Best Data Security Software Products Business of the Year* (CoDe) |
+| 🏅 2026 | **The Strategist Winner** — GPMG (CoDe) |
+| 🎓 2026 | **AWS Academy Educator** — certified to teach AWS cloud technologies |
+| 🏅 2022 | **Up2Stars** — Intesa Sanpaolo, selected innovative startup |
+| 🥇 2022 | **1st Place AI Week** — best Italian AI project (CoDe) |
 | 🏅 2018 | **Digithon Finalist** — CoDe project |
-| 📜 × 3 | **3 Patents** — Digital watermarking & video content distribution systems |
+| 📜 × 2 | **2 Patent filings** — video watermarking embed/extract + watermarked video distribution |
 | 📄 × 2 | **2 Research Papers** — Operation Epic Fury (Iranian APT) + TRON Drainer-as-a-Service |
+
+---
+
+## `> history | grep -v current`
+
+```
+2022-2024  Gold Fox Gaming S.p.A       CSO & CTO                       [EXIT]
+2020-2023  Digital Innovation Days     Head of Technology & Content    2k attendees
+2017-2020  tillate.world (Zurich)      Co-Founder & COO                [EXIT]
+2022-2024  Presidenza del Consiglio    "Gaming & digital skills" WG    MiC · MIM
+2020-2024  Digital360                  Cyber security author           200+ pros network
+2020-2021  Social Innovation Teams     Program Analyst                 PoliTo·UniTo·PoliMi
+```
 
 ---
 
@@ -98,6 +120,28 @@ class PaoloCostanzo:
 - **Anatomy of a TRON Wallet Drainer-as-a-Service** — Deep dive into affiliate-based cryptocurrency theft operations on the TRON network. $13,960 in documented stolen funds, Telegram infrastructure infiltrated, takedown coordinated. *(2026)*
 
 > 📚 Available on [ResearchGate](https://www.researchgate.net/profile/Paolo-Costanzo-2)
+
+**Reproducible labs** — methodology, stated limits and runnable material:
+
+- [**MCP 2026-07-28: stateless does not mean state-free**](https://paolocostanzo.github.io/mcp-2026-07-28-stateless-security/) — executable conformance test for a spec `MUST NOT`. Three key strategies compared, 13/13 tests. The composite key the spec recommends is bypassable when the principal id contains the delimiter.
+- [**SSRF → IMDSv1**](https://paolocostanzo.github.io/ssrf-imds-ec2-credentials/) — from application SSRF to temporary IAM role credentials, on owned infrastructure. Verifiable mitigations: IMDSv2, hop limit, least-privilege role policy.
+- [**Prompt injection on enterprise LLMs**](https://paolocostanzo.github.io/prompt-injection-llm/) — input → context → tool call chain, privilege separation, tool-level authorization, output validation and invocation logging.
+
+---
+
+## `> ./ctf --list`
+
+Writeups as **reproducible runbooks**, not flag dumps. Flags are always redacted:
+the method is the point, the value isn't.
+
+<div align="center">
+
+[![CTF Writeups](https://img.shields.io/badge/Hacker_Holidays_2026-12_rooms-FF6A00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/)
+[![All writeups](https://img.shields.io/badge/All_writeups-181717?style=for-the-badge&logo=github&logoColor=white)](https://paolocostanzo.github.io/ctf/)
+
+</div>
+
+> 🏨 *Byte Lotus Hotel* — a room a day across OSINT, web, cloud, forensics and boot2root.
 
 ---
 
@@ -151,17 +195,36 @@ class PaoloCostanzo:
 
 <div align="center">
 
-![MITRE ATT&CK AWS](https://img.shields.io/badge/MITRE_ATT%26CK_AWS-FF0000?style=flat-square)
-![CyberOps Associate](https://img.shields.io/badge/CyberOps_Associate-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![Network Security](https://img.shields.io/badge/Network_Security-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![FortiGate 7.6 Operator](https://img.shields.io/badge/FortiGate_7.6_Operator-EE3124?style=flat-square&logo=fortinet&logoColor=white)
-![Fortinet CyberSec](https://img.shields.io/badge/Associate_CyberSec-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+**2026**
+
+![AWS Academy Educator](https://img.shields.io/badge/AWS_Academy_Educator-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![Claude Partner Badge](https://img.shields.io/badge/Claude_Partner_Badge_—_Claude_Code-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![Secure AI/ML Dev](https://img.shields.io/badge/Secure_AI%2FML--Driven_Software_Dev-0094FF?style=flat-square&logo=linuxfoundation&logoColor=white)
+![EU CRA](https://img.shields.io/badge/EU_Cyber_Resilience_Act-0094FF?style=flat-square&logo=linuxfoundation&logoColor=white)
+
+**Cloud & AI**
+
+![AWS Cloud Architecting](https://img.shields.io/badge/AWS_Academy_—_Cloud_Architecting-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS Cloud Security](https://img.shields.io/badge/AWS_Academy_—_Cloud_Security_Foundations-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
+![MCP Advanced](https://img.shields.io/badge/MCP_Advanced_Topics-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![Claude API](https://img.shields.io/badge/Building_with_the_Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Code in Action](https://img.shields.io/badge/Claude_Code_in_Action-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![Claude Bedrock](https://img.shields.io/badge/Claude_in_Amazon_Bedrock-D4A574?style=flat-square&logo=anthropic&logoColor=white)
 ![Red Hat AI](https://img.shields.io/badge/AI_Foundations_Executive-EE0000?style=flat-square&logo=redhat&logoColor=white)
+
+**Offensive · Detection · Network**
+
+![MITRE ATT&CK v13](https://img.shields.io/badge/Operationalizing_MITRE_ATT%26CK_v13-FF0000?style=flat-square)
+![MITRE ATT&CK AWS](https://img.shields.io/badge/ATT%26CK_Security_Stack_Mappings%3A_AWS-FF0000?style=flat-square)
 ![AttackIQ](https://img.shields.io/badge/Strategic_CyberSec_Mgmt-6C47FF?style=flat-square)
 ![API PenTest](https://img.shields.io/badge/API_PenTesting-009688?style=flat-square)
-![Claude API](https://img.shields.io/badge/Building_with_Claude_API-D4A574?style=flat-square&logo=anthropic&logoColor=white)
-![Cyber Security Cert](https://img.shields.io/badge/Cyber_Security_Certificate-333333?style=flat-square)
+![Ethical Hacker](https://img.shields.io/badge/Ethical_Hacker-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![CyberOps Associate](https://img.shields.io/badge/CyberOps_Associate-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network_Security-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Cisco Certified Instructor](https://img.shields.io/badge/Cisco_Certified_Instructor-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Fortinet CyberSec](https://img.shields.io/badge/Fortinet_Certified_Associate-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![FortiGate 7.6 Operator](https://img.shields.io/badge/FortiGate_7.6_Operator-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![Cyber Security Cert](https://img.shields.io/badge/Cyber_Security_Certificate-333333?style=flat-square&logo=tryhackme&logoColor=white)
 ![BLS-D](https://img.shields.io/badge/BLS--D-FF3333?style=flat-square)
 
 </div>
