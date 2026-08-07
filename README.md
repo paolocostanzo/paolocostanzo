@@ -293,13 +293,13 @@ the method is the point, the value isn't.
 ## `> cat /var/www/blog/recent.log`
 
 <!-- BLOG-POST-LIST:START -->
-- ☁️ [MCP 2026-07-28: Stateless Does Not Mean State-Free](https://paolocostanzo.github.io/mcp-2026-07-28-stateless-security/)
-- 🇮🇷 [Wearable Biometric Telemetry: Technical Tear-down and Data Supply Chain](https://paolocostanzo.github.io/oura-palantir-biometrici/)
-- 🌐 [Coordinated Abuse Network on Telegram: Content Moderation, Payment Rails and Regulatory Response](https://paolocostanzo.github.io/rape-academy-cnn-threat-intel/)
-- 💀 [Anatomy of a TRON Wallet Drainer-as-a-Service](https://paolocostanzo.github.io/crypto-drainer-svuotatasche/)
-- 📡 [SSRF → IMDSv1: Exfiltrating IAM Credentials from an EC2 Instance](https://paolocostanzo.github.io/ssrf-imds-ec2-credentials/)
-- 🔴 [Evil Portal, Beacon Spam and Deauth: a €40 Hardware Wi-Fi Lab](https://paolocostanzo.github.io/cardputer-adv-wifi-security/)
-- 🔴 [Operation Epic Fury: Independent OSINT Analysis of a Dual-Platform Campaign](https://paolocostanzo.github.io/operation-epic-fury-cyber-war-iran/)<!-- BLOG-POST-LIST:END -->
+- ☁️ [CTF Writeups — Hacker Holidays 2026 &lpar;Byte Lotus Hotel&rpar;](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/)
+- 🇮🇷 [MCP 2026-07-28: Stateless Does Not Mean State-Free](https://paolocostanzo.github.io/mcp-2026-07-28-stateless-security/)
+- 🌐 [Wearable Biometric Telemetry: Technical Tear-down and Data Supply Chain](https://paolocostanzo.github.io/oura-palantir-biometrici/)
+- 💀 [Coordinated Abuse Network on Telegram: Content Moderation, Payment Rails and Regulatory Response](https://paolocostanzo.github.io/rape-academy-cnn-threat-intel/)
+- 📡 [Anatomy of a TRON Wallet Drainer-as-a-Service](https://paolocostanzo.github.io/crypto-drainer-svuotatasche/)
+- 🔴 [SSRF → IMDSv1: Exfiltrating IAM Credentials from an EC2 Instance](https://paolocostanzo.github.io/ssrf-imds-ec2-credentials/)
+- 🔴 [Evil Portal, Beacon Spam and Deauth: a €40 Hardware Wi-Fi Lab](https://paolocostanzo.github.io/cardputer-adv-wifi-security/)<!-- BLOG-POST-LIST:END -->
 
 > 📖 **[Read all posts → paolocostanzo.github.io](https://paolocostanzo.github.io)**
 
