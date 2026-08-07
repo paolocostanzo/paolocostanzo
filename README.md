@@ -92,7 +92,7 @@ class PaoloCostanzo:
 | 🏅 2026 | **Global 100 Winner** — GPMG, *Best Data Security Software Products Business of the Year* (CoDe) |
 | 🏅 2026 | **The Strategist Winner** — GPMG (CoDe) |
 | 🎓 2026 | **AWS Academy Educator** — certified to teach AWS cloud technologies |
-| 🎓 2025 | **Cisco Networking Academy Instructor** — teaching Cisco networking & security labs (Forte Chance ETS) |
+| 🎓 2025 | **Cisco Networking Academy Instructor** — teaching Cisco networking & security labs |
 | 🏅 2022 | **Up2Stars** — Intesa Sanpaolo, selected innovative startup |
 | 🥇 2022 | **1st Place AI Week** — best Italian AI project (CoDe) |
 | 🏅 2018 | **Digithon Finalist** — CoDe project |
