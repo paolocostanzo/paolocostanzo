@@ -294,13 +294,13 @@ the method is the point, the value isn't.
 ## `> cat /var/www/blog/recent.log`
 
 <!-- BLOG-POST-LIST:START -->
-- ☁️ [CTF Writeups — Hacker Holidays 2026 &lpar;Byte Lotus Hotel&rpar;](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/)
-- 🇮🇷 [MCP 2026-07-28: Stateless Does Not Mean State-Free](https://paolocostanzo.github.io/mcp-2026-07-28-stateless-security/)
-- 🌐 [Wearable Biometric Telemetry: Technical Tear-down and Data Supply Chain](https://paolocostanzo.github.io/oura-palantir-biometrici/)
-- 💀 [Coordinated Abuse Network on Telegram: Content Moderation, Payment Rails and Regulatory Response](https://paolocostanzo.github.io/rape-academy-cnn-threat-intel/)
-- 📡 [Anatomy of a TRON Wallet Drainer-as-a-Service](https://paolocostanzo.github.io/crypto-drainer-svuotatasche/)
-- 🔴 [SSRF → IMDSv1: Exfiltrating IAM Credentials from an EC2 Instance](https://paolocostanzo.github.io/ssrf-imds-ec2-credentials/)
-- 🔴 [Evil Portal, Beacon Spam and Deauth: a €40 Hardware Wi-Fi Lab](https://paolocostanzo.github.io/cardputer-adv-wifi-security/)<!-- BLOG-POST-LIST:END -->
+- ☁️ [The Guestbook — TryHackMe Hacker Holidays 2026 Day 13 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/the-guestbook/)
+- 🇮🇷 [After Hours — TryHackMe Hacker Holidays 2026 Day 12 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/after-hours/)
+- 🌐 [CTF Writeups — Hacker Holidays 2026 &lpar;Byte Lotus Hotel&rpar;](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/)
+- 💀 [Infinity Pool — TryHackMe Hacker Holidays 2026 Day 11 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/infinity-pool/)
+- 📡 [The Hollow Shell — TryHackMe Hacker Holidays 2026 Day 10 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/the-hollow-shell/)
+- 🔴 [CryptoCabana — TryHackMe Hacker Holidays 2026 Day 9 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/cryptocabana/)
+- 🔴 [Towel on the Sunbed — TryHackMe Hacker Holidays 2026 Day 8 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/towel-on-the-sunbed/)<!-- BLOG-POST-LIST:END -->
 
 > 📖 **[Read all posts → paolocostanzo.github.io](https://paolocostanzo.github.io)**
 
