@@ -294,13 +294,13 @@ the method is the point, the value isn't.
 ## `> cat /var/www/blog/recent.log`
 
 <!-- BLOG-POST-LIST:START -->
-- ☁️ [Management Wants a Word — TryHackMe Hacker Holidays 2026 Day 14 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/management-wants-a-word/)
-- 🇮🇷 [The Guestbook — TryHackMe Hacker Holidays 2026 Day 13 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/the-guestbook/)
-- 🌐 [After Hours — TryHackMe Hacker Holidays 2026 Day 12 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/after-hours/)
-- 💀 [CTF Writeups — Hacker Holidays 2026 &lpar;Byte Lotus Hotel&rpar;](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/)
-- 📡 [Infinity Pool — TryHackMe Hacker Holidays 2026 Day 11 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/infinity-pool/)
-- 🔴 [The Hollow Shell — TryHackMe Hacker Holidays 2026 Day 10 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/the-hollow-shell/)
-- 🔴 [CryptoCabana — TryHackMe Hacker Holidays 2026 Day 9 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/cryptocabana/)<!-- BLOG-POST-LIST:END -->
+- ☁️ [Outside the Prompt: What This Summer&#39;s AI Agent Vulnerabilities Have in Common](https://paolocostanzo.github.io/outside-the-prompt-ai-agent-vulnerabilities-summer-2026/)
+- 🇮🇷 [Management Wants a Word — TryHackMe Hacker Holidays 2026 Day 14 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/management-wants-a-word/)
+- 🌐 [The Guestbook — TryHackMe Hacker Holidays 2026 Day 13 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/the-guestbook/)
+- 💀 [After Hours — TryHackMe Hacker Holidays 2026 Day 12 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/after-hours/)
+- 📡 [CTF Writeups — Hacker Holidays 2026 &lpar;Byte Lotus Hotel&rpar;](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/)
+- 🔴 [Infinity Pool — TryHackMe Hacker Holidays 2026 Day 11 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/infinity-pool/)
+- 🔴 [The Hollow Shell — TryHackMe Hacker Holidays 2026 Day 10 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/the-hollow-shell/)<!-- BLOG-POST-LIST:END -->
 
 > 📖 **[Read all posts → paolocostanzo.github.io](https://paolocostanzo.github.io)**
 
