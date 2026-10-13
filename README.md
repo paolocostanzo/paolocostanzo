@@ -1,17 +1,19 @@
 <!-- 🏴 FLAG{y0u_f0und_my_pr0f1l3} — if you're here, you're one of us -->
 
-<img src="assets/header.svg" width="100%" alt="I'm Paolo Costanzo — Chief Endgame Officer | Security Researcher | Professor"/>
+<img src="assets/header.svg" width="100%" alt="I'm Paolo Costanzo — Chief Endgame Officer | Security Researcher | Lecturer"/>
 
 <div align="center">
 
 <a href="https://github.com/paolocostanzo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1000&color=FF6A00&center=true&vCenter=true&repeat=true&width=480&height=45&lines=%24+whoami+%E2%86%92+CEO+%40+CoDe+RTD;%24+nmap+%E2%86%92+2+patents+%7C+2+papers;%24+uptime+%E2%86%92+hacking+since+2006;%24+cat+flag.txt+%E2%86%92+you+found+me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1000&color=FF6A00&center=true&vCenter=true&repeat=true&width=480&height=45&lines=%24+whoami+%E2%86%92+CEO+%40+CoDe+RTD;%24+nmap+%E2%86%92+3+patent+filings+%7C+4+DOIs;%24+uptime+%E2%86%92+hacking+since+2006;%24+cat+flag.txt+%E2%86%92+you+found+me" />
 </a>
 
 <br/>
 
 [![Website](https://img.shields.io/badge/paolocostanzo.com-FF6A00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.paolocostanzo.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paolocostanzoit)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0005--7205--5945-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0005-7205-5945)
+[![Publications](https://img.shields.io/badge/Publications-FF6A00?style=for-the-badge&logo=bookstack&logoColor=white)](https://paolocostanzo.github.io/publications/)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Paolo-Costanzo-2)
 [![Blog](https://img.shields.io/badge/Security_Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://paolocostanzo.github.io)
 [![Email](https://img.shields.io/badge/Contact-FF6A00?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:me@paolocostanzo.com)
@@ -30,10 +32,12 @@
 class PaoloCostanzo:
     role        = "Chief Endgame Officer @ CoDe RTD"
     aka         = ["nonèCostanzo", "the guy who debugs criminal orgs on Easter"]
-    location    = "🇵🇦 Panama — 🌐 Remote Worldwide"
+    location    = "🇮🇹 Italy — 🌐 Remote Worldwide"
+    orcid       = "0009-0005-7205-5945"
     company     = "CoDe - Research & Technological Development"
     focus       = ["Cloud & AI Product Security", "Agentic AI / LLM / MCP",
                    "Offensive Validation", "Threat Intelligence", "OSINT"]
+    research    = "Outside the Prompt — trust boundaries of AI coding agents & MCP"
     cloud       = ["AWS (Academy Educator)", "Azure", "IAM & identity", "IaC / GitOps"]
     teaching    = ["ITS ICT Piemonte", "Forte Chance ETS"]
     mentoring   = ["Startup Geeks", "SecurityCert — Board of Advisors"]
@@ -63,14 +67,15 @@ class PaoloCostanzo:
    │    ├─ €1M raised · 50+ customers across Europe
    │    └─ E2E encryption · granular IAM · secure cloud governance
    │
-   ├─ PID 2  [Professor] Cybersecurity & AWS — ITS ICT Piemonte, since Mar 2026
+   ├─ PID 2  [Lecturer] Cybersecurity & AWS — ITS ICT Piemonte, since Mar 2026
    │    ├─ Course lead: Cyber Security Specialist · SOC Analyst · AWS Cloud Architect
    │    ├─ AWS → architecture, Well-Architected, IaC (CloudFormation/CDK/Terraform)
    │    ├─ Forte Chance ETS → networking, Cisco labs, threat mgmt (since Jul 2025)
-   │    ├─ Istituti Galilei → systems, networks, telecom (2020 → Jun 2026, closed)
+   │    ├─ Istituti Galilei → systems, networks, telecom (2020 → 2025, closed)
    │    └─ Methodology: recon → enum → exploit → report (yes, even in class)
    │
    ├─ PID 3  [Researcher] Cloud & AI Security · Threat Intel
+   │    ├─ Outside the Prompt — AI coding agents & MCP trust boundaries (open lab, DOI)
    │    ├─ Iranian APT campaigns — found what Unit 42 & CloudSEK missed
    │    ├─ Crypto-drainer DaaS: $13,960 traced, Telegram infra infiltrated
    │    ├─ MCP spec conformance: an executable test for a MUST NOT (13/13)
@@ -93,11 +98,12 @@ class PaoloCostanzo:
 | 🏅 2026 | **The Strategist Winner** — GPMG (CoDe) |
 | 🎓 2026 | **AWS Academy Educator** — certified to teach AWS cloud technologies |
 | 🎓 2025 | **Cisco Networking Academy Instructor** — teaching Cisco networking & security labs |
-| 🏅 2022 | **Up2Stars** — Intesa Sanpaolo, selected innovative startup |
+| 🏅 2022 | **Up2Stars** — Intesa Sanpaolo, winner (innovative startups programme) |
 | 🥇 2022 | **1st Place AI Week** — best Italian AI project (CoDe) |
 | 🏅 2018 | **Digithon Finalist** — CoDe project |
-| 📜 × 2 | **2 Patent filings** — video watermarking embed/extract + watermarked video distribution |
-| 📄 × 2 | **2 Research Papers** — Operation Epic Fury (Iranian APT) + TRON Drainer-as-a-Service |
+| 📜 × 3 | **3 Italian patent filings** — watermarked video distribution (2018) + video watermark embedding/extraction (2019, 2021) |
+| 📄 × 2 | **2 Preprints (Zenodo DOI)** — Operation Epic Fury (Iranian APT) + TRON Drainer-as-a-Service |
+| 🧪 2026 | **Outside the Prompt** — open lab harness + preregistration, both with Zenodo DOI |
 
 ---
 
@@ -116,11 +122,18 @@ class PaoloCostanzo:
 
 ## `> cat /etc/research/publications.bib`
 
-- **Operation Epic Fury: What the Reports Missed** — Independent OSINT analysis of the Iranian dual-platform cyber campaign targeting Israeli civilians. Undisclosed Windows payload, secondary C2 at 0/94 on VirusTotal, infrastructure active 8 months before anyone noticed. *(Feb 2026)*
+- **[Operation Epic Fury: What the Reports Missed](https://doi.org/10.5281/zenodo.19227143)** — Independent OSINT analysis of the Iranian dual-platform cyber campaign targeting Israeli civilians. Undisclosed Windows payload, secondary C2 at 0/94 on VirusTotal, infrastructure active 8 months before anyone noticed. *(Preprint, Mar 2026 · DOI [10.5281/zenodo.19227143](https://doi.org/10.5281/zenodo.19227143))*
 
-- **Anatomy of a TRON Wallet Drainer-as-a-Service** — Deep dive into affiliate-based cryptocurrency theft operations on the TRON network. $13,960 in documented stolen funds, Telegram infrastructure infiltrated, takedown coordinated. *(2026)*
+- **[Anatomy of a TRON Wallet Drainer-as-a-Service](https://doi.org/10.5281/zenodo.19535888)** — Deep dive into affiliate-based cryptocurrency theft operations on the TRON network. $13,960 in documented stolen funds, Telegram infrastructure infiltrated, takedown and law-enforcement report in progress. *(Preprint, Apr 2026 · DOI [10.5281/zenodo.19535888](https://doi.org/10.5281/zenodo.19535888))*
 
-> 📚 Available on [ResearchGate](https://www.researchgate.net/profile/Paolo-Costanzo-2)
+**Outside the Prompt** — series on the trust boundaries of AI coding agents (configuration, startup, tool metadata), headed for a journal submission:
+
+- [**Part 1 — Outside the Prompt: what this summer's AI agent vulnerabilities have in common**](https://paolocostanzo.github.io/outside-the-prompt-ai-agent-vulnerabilities-summer-2026/) — ten disclosures classified by where they trigger. In six, the model never had to be fooled.
+- [**Part 2 — Trusting a repo now means trusting its MCP servers**](https://paolocostanzo.github.io/trusting-a-repo-means-trusting-its-mcp-servers/) — same repository, same harmless MCP server, eight AI coding agents, repeated measurements.
+- [**Lab harness**](https://github.com/paolocostanzo/outside-the-prompt-lab) — reproducible, harmless canaries · DOI [10.5281/zenodo.23300292](https://doi.org/10.5281/zenodo.23300292)
+- **Preregistration** — frozen before the data · DOI [10.5281/zenodo.23300369](https://doi.org/10.5281/zenodo.23300369)
+
+> 📚 Everything with a permanent identifier → [Publications](https://paolocostanzo.github.io/publications/) · [ORCID](https://orcid.org/0009-0005-7205-5945) · [Google Scholar](https://scholar.google.com/citations?user=_BdeReYAAAAJ) · [Zenodo](https://zenodo.org/search?q=creators.orcid%3A0009-0005-7205-5945) · [ResearchGate](https://www.researchgate.net/profile/Paolo-Costanzo-2)
 
 **Reproducible labs** — methodology, stated limits and runnable material:
 
@@ -137,7 +150,7 @@ the method is the point, the value isn't.
 
 <div align="center">
 
-[![CTF Writeups](https://img.shields.io/badge/Hacker_Holidays_2026-12_rooms-FF6A00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/)
+[![CTF Writeups](https://img.shields.io/badge/Hacker_Holidays_2026-15_rooms-FF6A00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/)
 [![All writeups](https://img.shields.io/badge/All_writeups-181717?style=for-the-badge&logo=github&logoColor=white)](https://paolocostanzo.github.io/ctf/)
 
 </div>
@@ -336,7 +349,7 @@ the method is the point, the value isn't.
 
 > *"I am always doing that which I cannot do, in order that I may learn how to do it."*
 
-**`root@costanzo:~# CEO who codes · Professor who pentests · Researcher who ships · Diver who debugs`**
+**`root@costanzo:~# CEO who codes · Lecturer who pentests · Researcher who ships · Diver who debugs`**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF6A00&height=100&section=footer" width="100%"/>
 
