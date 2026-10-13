@@ -45,7 +45,7 @@ class PaoloCostanzo:
     speaks      = {"it": "Native", "en": "C1", "fr": "enough to order croissants"}
     side_quests = ["Scuba Diving Instructor (CMAS/NADD/DAN)", "trained with ex-Navy GOI operator"]
     fun_fact    = "spent Easter 2026 infiltrating Telegram crypto-drainer channels instead of eating colomba"
-    now_playing = "CTF writeups — a room a day, flags redacted on purpose"
+    now_playing = "Outside the Prompt — from blog series to journal paper, data in the open"
     philosophy  = "I am always doing that which I cannot do, in order that I may learn how to do it."
 ```
 
@@ -67,19 +67,21 @@ class PaoloCostanzo:
    │    ├─ €1M raised · 50+ customers across Europe
    │    └─ E2E encryption · granular IAM · secure cloud governance
    │
-   ├─ PID 2  [Lecturer] Cybersecurity & AWS — ITS ICT Piemonte, since Mar 2026
-   │    ├─ Course lead: Cyber Security Specialist · SOC Analyst · AWS Cloud Architect
+   ├─ PID 2  [Lecturer] Cybersecurity & AWS — teaching since Sep 2020
+   │    ├─ ITS ICT Piemonte → course lead: Cyber Security Specialist · SOC Analyst ·
+   │    │    AWS Cloud Architect — since Mar 2026
    │    ├─ AWS → architecture, Well-Architected, IaC (CloudFormation/CDK/Terraform)
-   │    ├─ Forte Chance ETS → networking, Cisco labs, threat mgmt (since Jul 2025)
-   │    ├─ Istituti Galilei → systems, networks, telecom (2020 → 2025, closed)
+   │    ├─ Forte Chance ETS → networking, Cisco labs, threat mgmt — since Jul 2025
+   │    ├─ Istituti Galilei → systems, networks, telecom — Sep 2020 → 2025 (closed)
    │    └─ Methodology: recon → enum → exploit → report (yes, even in class)
    │
    ├─ PID 3  [Researcher] Cloud & AI Security · Threat Intel
-   │    ├─ Outside the Prompt — AI coding agents & MCP trust boundaries (open lab, DOI)
-   │    ├─ Iranian APT campaigns — found what Unit 42 & CloudSEK missed
-   │    ├─ Crypto-drainer DaaS: $13,960 traced, Telegram infra infiltrated
-   │    ├─ MCP spec conformance: an executable test for a MUST NOT (13/13)
-   │    ├─ CTF writeups — a room a day, methodology over flags
+   │    ├─ Outside the Prompt — AI coding agents & MCP trust boundaries
+   │    │    (open lab + preregistration, DOI) — Sep 2026 → now
+   │    ├─ CTF writeups — 15 rooms, methodology over flags — Jul–Aug 2026
+   │    ├─ MCP spec conformance: an executable test for a MUST NOT (13/13) — Jul 2026
+   │    ├─ Crypto-drainer DaaS: $13,960 traced, Telegram infra infiltrated — Apr 2026
+   │    ├─ Iranian APT campaign — found what Unit 42 & CloudSEK missed — Mar 2026
    │    └─ "I take things apart and watch what moves at the edges"
    │
    └─ PID 4  [Side Quest] Scuba Diving Instructor
@@ -94,52 +96,53 @@ class PaoloCostanzo:
 
 | Year | Entry |
 |------|-------|
+| 🧪 2026 | **Outside the Prompt** — open lab harness + preregistration, both with Zenodo DOI |
 | 🏅 2026 | **Global 100 Winner** — GPMG, *Best Data Security Software Products Business of the Year* (CoDe) |
 | 🏅 2026 | **The Strategist Winner** — GPMG (CoDe) |
 | 🎓 2026 | **AWS Academy Educator** — certified to teach AWS cloud technologies |
+| 📄 2026 | **2 Preprints (Zenodo DOI)** — TRON Drainer-as-a-Service (Apr) + Operation Epic Fury (Mar) |
 | 🎓 2025 | **Cisco Networking Academy Instructor** — teaching Cisco networking & security labs |
 | 🏅 2022 | **Up2Stars** — Intesa Sanpaolo, winner (innovative startups programme) |
 | 🥇 2022 | **1st Place AI Week** — best Italian AI project (CoDe) |
+| 📜 2018–2021 | **3 Patent filings** (Italy) — video watermark embedding & extraction (Dec 2019, Apr 2021) + watermarked video distribution system (Apr 2018) |
 | 🏅 2018 | **Digithon Finalist** — CoDe project |
-| 📜 × 3 | **3 Patent filings** (Italy) — video watermark embedding & extraction (Dec 2019, Apr 2021) + watermarked video distribution system (Apr 2018) |
-| 📄 × 2 | **2 Preprints (Zenodo DOI)** — Operation Epic Fury (Iranian APT) + TRON Drainer-as-a-Service |
-| 🧪 2026 | **Outside the Prompt** — open lab harness + preregistration, both with Zenodo DOI |
 
 ---
 
 ## `> history | grep -v current`
 
 ```
-2022-2024  Gold Fox Gaming S.p.A       CSO & CTO                       [EXIT]
-2020-2023  Digital Innovation Days     Head of Technology & Content    2k attendees
-2017-2020  tillate.world (Zurich)      Co-Founder & COO                [EXIT]
 2022-2024  Presidenza del Consiglio    "Gaming & digital skills" WG    MiC · MIM
+2022-2024  Gold Fox Gaming S.p.A       CSO & CTO                       [EXIT]
 2020-2024  Digital360                  Cyber security author           200+ pros network
+2020-2023  Digital Innovation Days     Head of Technology & Content    2k attendees
 2020-2021  Social Innovation Teams     Program Analyst                 PoliTo·UniTo·PoliMi
+2017-2020  tillate.world (Zurich)      Co-Founder & COO                [EXIT]
 ```
 
 ---
 
 ## `> cat /etc/research/publications.bib`
 
-- **[Operation Epic Fury: What the Reports Missed](https://doi.org/10.5281/zenodo.19227143)** — Independent OSINT analysis of the Iranian dual-platform cyber campaign targeting Israeli civilians. Undisclosed Windows payload, secondary C2 at 0/94 on VirusTotal, infrastructure active 8 months before anyone noticed. *(Preprint, Mar 2026 · DOI [10.5281/zenodo.19227143](https://doi.org/10.5281/zenodo.19227143))*
+**Now — Outside the Prompt** (Sep 2026 →): a series on the trust boundaries of AI coding agents (configuration, startup, tool metadata), headed for a journal submission.
 
-- **[Anatomy of a TRON Wallet Drainer-as-a-Service](https://doi.org/10.5281/zenodo.19535888)** — Deep dive into affiliate-based cryptocurrency theft operations on the TRON network. $13,960 in documented stolen funds, Telegram infrastructure infiltrated, takedown and law-enforcement report in progress. *(Preprint, Apr 2026 · DOI [10.5281/zenodo.19535888](https://doi.org/10.5281/zenodo.19535888))*
+- [**Part 2 — Trusting a repo now means trusting its MCP servers**](https://paolocostanzo.github.io/trusting-a-repo-means-trusting-its-mcp-servers/) *(13 Oct 2026)* — same repository, same harmless MCP server, eight AI coding agents, repeated measurements.
+- **Lab harness** — [repository](https://github.com/paolocostanzo/outside-the-prompt-lab), reproducible and with harmless canaries *(v0.2.1, 13 Oct 2026)* · DOI [10.5281/zenodo.23300292](https://doi.org/10.5281/zenodo.23300292)
+- **Preregistration** — frozen before the remaining measurements *(11 Oct 2026)* · DOI [10.5281/zenodo.23300369](https://doi.org/10.5281/zenodo.23300369)
+- [**Part 1 — What this summer's AI agent vulnerabilities have in common**](https://paolocostanzo.github.io/outside-the-prompt-ai-agent-vulnerabilities-summer-2026/) *(29 Sep 2026)* — ten disclosures classified by where they trigger. In six, the model never had to be fooled.
 
-**Outside the Prompt** — series on the trust boundaries of AI coding agents (configuration, startup, tool metadata), headed for a journal submission:
+**Preprints**
 
-- [**Part 1 — Outside the Prompt: what this summer's AI agent vulnerabilities have in common**](https://paolocostanzo.github.io/outside-the-prompt-ai-agent-vulnerabilities-summer-2026/) — ten disclosures classified by where they trigger. In six, the model never had to be fooled.
-- [**Part 2 — Trusting a repo now means trusting its MCP servers**](https://paolocostanzo.github.io/trusting-a-repo-means-trusting-its-mcp-servers/) — same repository, same harmless MCP server, eight AI coding agents, repeated measurements.
-- [**Lab harness**](https://github.com/paolocostanzo/outside-the-prompt-lab) — reproducible, harmless canaries · DOI [10.5281/zenodo.23300292](https://doi.org/10.5281/zenodo.23300292)
-- **Preregistration** — frozen before the data · DOI [10.5281/zenodo.23300369](https://doi.org/10.5281/zenodo.23300369)
-
-> 📚 Everything with a permanent identifier → [Publications](https://paolocostanzo.github.io/publications/) · [ORCID](https://orcid.org/0009-0005-7205-5945) · [Google Scholar](https://scholar.google.com/citations?user=_BdeReYAAAAJ) · [Zenodo](https://zenodo.org/search?q=creators.orcid%3A0009-0005-7205-5945) · [ResearchGate](https://www.researchgate.net/profile/Paolo-Costanzo-2)
+- **[Anatomy of a TRON Wallet Drainer-as-a-Service](https://doi.org/10.5281/zenodo.19535888)** *(Apr 2026)* — affiliate-based cryptocurrency theft operations on the TRON network. $13,960 in documented stolen funds, Telegram infrastructure infiltrated, takedown and law-enforcement report in progress. · DOI [10.5281/zenodo.19535888](https://doi.org/10.5281/zenodo.19535888)
+- **[Operation Epic Fury: What the Reports Missed](https://doi.org/10.5281/zenodo.19227143)** *(Mar 2026)* — independent OSINT analysis of the Iranian dual-platform cyber campaign targeting Israeli civilians. Undisclosed Windows payload, secondary C2 at 0/94 on VirusTotal, infrastructure active 8 months before anyone noticed. · DOI [10.5281/zenodo.19227143](https://doi.org/10.5281/zenodo.19227143)
 
 **Reproducible labs** — methodology, stated limits and runnable material:
 
-- [**MCP 2026-07-28: stateless does not mean state-free**](https://paolocostanzo.github.io/mcp-2026-07-28-stateless-security/) — executable conformance test for a spec `MUST NOT`. Three key strategies compared, 13/13 tests. The composite key the spec recommends is bypassable when the principal id contains the delimiter.
-- [**SSRF → IMDSv1**](https://paolocostanzo.github.io/ssrf-imds-ec2-credentials/) — from application SSRF to temporary IAM role credentials, on owned infrastructure. Verifiable mitigations: IMDSv2, hop limit, least-privilege role policy.
-- [**Prompt injection on enterprise LLMs**](https://paolocostanzo.github.io/prompt-injection-llm/) — input → context → tool call chain, privilege separation, tool-level authorization, output validation and invocation logging.
+- [**MCP 2026-07-28: stateless does not mean state-free**](https://paolocostanzo.github.io/mcp-2026-07-28-stateless-security/) *(Jul 2026)* — executable conformance test for a spec `MUST NOT`. Three key strategies compared, 13/13 tests. The composite key the spec recommends is bypassable when the principal id contains the delimiter.
+- [**SSRF → IMDSv1**](https://paolocostanzo.github.io/ssrf-imds-ec2-credentials/) *(Mar 2026)* — from application SSRF to temporary IAM role credentials, on owned infrastructure. Verifiable mitigations: IMDSv2, hop limit, least-privilege role policy.
+- [**Prompt injection on enterprise LLMs**](https://paolocostanzo.github.io/prompt-injection-llm/) *(Mar 2026)* — input → context → tool call chain, privilege separation, tool-level authorization, output validation and invocation logging.
+
+> 📚 Everything with a permanent identifier → [Publications](https://paolocostanzo.github.io/publications/) · [ORCID](https://orcid.org/0009-0005-7205-5945) · [Google Scholar](https://scholar.google.com/citations?user=_BdeReYAAAAJ) · [Zenodo](https://zenodo.org/search?q=creators.orcid%3A0009-0005-7205-5945) · [ResearchGate](https://www.researchgate.net/profile/Paolo-Costanzo-2)
 
 ---
 
@@ -155,7 +158,7 @@ the method is the point, the value isn't.
 
 </div>
 
-> 🏨 *Byte Lotus Hotel* — a room a day across OSINT, web, cloud, forensics and boot2root.
+> 🏨 *Byte Lotus Hotel* (TryHackMe Hacker Holidays, 25 Jul – 9 Aug 2026) — Day 0 to Day 14, one room a day across OSINT, web, cloud, forensics and boot2root.
 
 ---
 
@@ -332,8 +335,8 @@ the method is the point, the value isn't.
 │   🤝  If you build it, I'll try to break it                          │
 │       (with a report and remediation, not just vibes)                │
 │                                                                      │
-│   📧  me@paolocostanzo.com                                            │
-│   🌐  paolocostanzo.com  ·  paolocostanzo.github.io                 │
+│   📧  me@paolocostanzo.com                                           │
+│   🌐  paolocostanzo.com  ·  paolocostanzo.github.io                  │
 │                                                                      │
 │   // I also accept bug reports on my own infra.                      │
 │   // Find something? Tell me. Coffee's on me. ☕                     │
