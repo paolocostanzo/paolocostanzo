@@ -5,7 +5,7 @@
 <div align="center">
 
 <a href="https://github.com/paolocostanzo">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1000&color=FF6A00&center=true&vCenter=true&repeat=true&width=480&height=45&lines=%24+whoami+%E2%86%92+CEO+%40+CoDe+RTD;%24+nmap+%E2%86%92+2+patents+%7C+4+DOIs;%24+uptime+%E2%86%92+hacking+since+2006;%24+cat+flag.txt+%E2%86%92+you+found+me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=1000&color=FF6A00&center=true&vCenter=true&repeat=true&width=480&height=45&lines=%24+whoami+%E2%86%92+CEO+%40+CoDe+RTD;%24+nmap+%E2%86%92+3+patent+filings+%7C+4+DOIs;%24+uptime+%E2%86%92+hacking+since+2006;%24+cat+flag.txt+%E2%86%92+you+found+me" />
 </a>
 
 <br/>
@@ -101,7 +101,7 @@ class PaoloCostanzo:
 | 🏅 2022 | **Up2Stars** — Intesa Sanpaolo, winner (innovative startups programme) |
 | 🥇 2022 | **1st Place AI Week** — best Italian AI project (CoDe) |
 | 🏅 2018 | **Digithon Finalist** — CoDe project |
-| 📜 × 2 | **2 Patent filings** — video watermarking embed/extract + watermarked video distribution |
+| 📜 × 3 | **3 Patent filings** (Italy) — video watermark embedding & extraction (Dec 2019, Apr 2021) + watermarked video distribution system (Apr 2018) |
 | 📄 × 2 | **2 Preprints (Zenodo DOI)** — Operation Epic Fury (Iranian APT) + TRON Drainer-as-a-Service |
 | 🧪 2026 | **Outside the Prompt** — open lab harness + preregistration, both with Zenodo DOI |
 
