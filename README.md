@@ -18,22 +18,15 @@
 [![Blog](https://img.shields.io/badge/Security_Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://paolocostanzo.github.io)
 [![Email](https://img.shields.io/badge/Contact-FF6A00?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:me@paolocostanzo.com)
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=paolocostanzo&color=FF6A00&style=flat-square&label=Profile+Intrusions" alt="visitors"/>
-
 </div>
 
 <div align="center">
 
-<sub><code>// CONTRIBUTING TO</code></sub><br/>
-<a href="https://aaif.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://paolocostanzo.github.io/brand/AAIF_Primary_Logo_White.svg" /><source media="(prefers-color-scheme: light)" srcset="https://paolocostanzo.github.io/brand/AAIF_Primary_Logo_Black.svg" /><img alt="Agentic AI Foundation" src="https://paolocostanzo.github.io/brand/AAIF_Primary_Logo_Black.svg" height="30" align="center" /></picture></a>&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Contributor-since_2026-FF6A00?style=flat-square" alt="Contributor since 2026" align="center" />&nbsp;
-<a href="https://modelcontextprotocol.io"><b>Model Context Protocol project →</b></a>
-<br/><sub>Linux Foundation · open standard for AI agents</sub>
+<sub><code>// CONTRIBUTING TO</code></sub><br/><br/>
+<a href="https://aaif.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://paolocostanzo.github.io/brand/AAIF_Primary_Logo_White.svg" /><source media="(prefers-color-scheme: light)" srcset="https://paolocostanzo.github.io/brand/AAIF_Primary_Logo_Black.svg" /><img alt="Agentic AI Foundation" src="https://paolocostanzo.github.io/brand/AAIF_Primary_Logo_Black.svg" height="28" align="absmiddle" /></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://modelcontextprotocol.io"><img src="https://img.shields.io/badge/Model_Context_Protocol-contributor-30363d?style=flat-square" height="20" align="absmiddle" alt="Model Context Protocol contributor" /></a>
+<br/><sub>Model Context Protocol is hosted by the Agentic AI Foundation · Linux Foundation</sub>
 
 </div>
-
 
 ---
 
@@ -109,7 +102,6 @@ class PaoloCostanzo:
 
 | Year | Entry |
 |------|-------|
-| 🤝 2026 | **Contributor — Model Context Protocol project** (Agentic AI Foundation / Linux Foundation) |
 | 🧪 2026 | **Outside the Prompt** — 4-part series complete, open lab harness + preregistration, both with Zenodo DOI |
 | 🏅 2026 | **Global 100 Winner** — GPMG, *Best Data Security Software Products Business of the Year* (CoDe) |
 | 🏅 2026 | **The Strategist Winner** — GPMG (CoDe) |
@@ -369,6 +361,8 @@ the method is the point, the value isn't.
 > *"I am always doing that which I cannot do, in order that I may learn how to do it."*
 
 **`root@costanzo:~# CEO who codes · Lecturer who pentests · Researcher who ships · Diver who debugs`**
+
+<img src="https://komarev.com/ghpvc/?username=paolocostanzo&color=FF6A00&style=flat-square&label=Profile+Intrusions" alt="visitors"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF6A00&height=100&section=footer" width="100%"/>
 
