@@ -24,6 +24,17 @@
 
 </div>
 
+<div align="center">
+
+<sub><code>// CONTRIBUTING TO</code></sub><br/>
+<a href="https://aaif.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://paolocostanzo.github.io/brand/AAIF_Primary_Logo_White.svg" /><source media="(prefers-color-scheme: light)" srcset="https://paolocostanzo.github.io/brand/AAIF_Primary_Logo_Black.svg" /><img alt="Agentic AI Foundation" src="https://paolocostanzo.github.io/brand/AAIF_Primary_Logo_Black.svg" height="30" align="center" /></picture></a>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Contributor-since_2026-FF6A00?style=flat-square" alt="Contributor since 2026" align="center" />&nbsp;
+<a href="https://modelcontextprotocol.io"><b>Model Context Protocol project →</b></a>
+<br/><sub>Linux Foundation · open standard for AI agents</sub>
+
+</div>
+
+
 ---
 
 ## `> cat /proc/paolo/status`
@@ -77,7 +88,9 @@ class PaoloCostanzo:
    │
    ├─ PID 3  [Researcher] Cloud & AI Security · Threat Intel
    │    ├─ Outside the Prompt — AI coding agents & MCP trust boundaries
-   │    │    (open lab + preregistration, DOI) — Sep 2026 → now
+   │    │    (4-part series + open lab + preregistration, DOI) — Sep 2026 → now
+   │    ├─ Contributor — Model Context Protocol project (AAIF / Linux Foundation)
+   │    │    — since 2026
    │    ├─ CTF writeups — 15 rooms, methodology over flags — Jul–Aug 2026
    │    ├─ MCP spec conformance: an executable test for a MUST NOT (13/13) — Jul 2026
    │    ├─ Crypto-drainer DaaS: $13,960 traced, Telegram infra infiltrated — Apr 2026
@@ -96,7 +109,8 @@ class PaoloCostanzo:
 
 | Year | Entry |
 |------|-------|
-| 🧪 2026 | **Outside the Prompt** — open lab harness + preregistration, both with Zenodo DOI |
+| 🤝 2026 | **Contributor — Model Context Protocol project** (Agentic AI Foundation / Linux Foundation) |
+| 🧪 2026 | **Outside the Prompt** — 4-part series complete, open lab harness + preregistration, both with Zenodo DOI |
 | 🏅 2026 | **Global 100 Winner** — GPMG, *Best Data Security Software Products Business of the Year* (CoDe) |
 | 🏅 2026 | **The Strategist Winner** — GPMG (CoDe) |
 | 🎓 2026 | **AWS Academy Educator** — certified to teach AWS cloud technologies |
@@ -124,10 +138,12 @@ class PaoloCostanzo:
 
 ## `> cat /etc/research/publications.bib`
 
-**Now — Outside the Prompt** (Sep 2026 →): a series on the trust boundaries of AI coding agents (configuration, startup, tool metadata), headed for a journal submission.
+**Now — Outside the Prompt** (Sep–Oct 2026): a four-part series on the trust boundaries of AI coding agents (configuration, startup, tool metadata, logs). Preprint planned for Nov 2026, then a peer-reviewed journal submission.
 
+- [**Part 4 — Would your logs have caught it?**](https://paolocostanzo.github.io/would-your-logs-catch-it-ai-coding-agents/) *(27 Oct 2026)* — the events of parts 2 and 3 replayed in five AI coding agents: which default logs and host telemetry record them, against hours of normal use.
+- [**Part 3 — You approved the tool. Then it changed.**](https://paolocostanzo.github.io/approved-mcp-tools-can-change-after-you-say-yes/) *(20 Oct 2026)* — an approved MCP tool changes its description: none of eight AI coding agents asked for permission again because of the change.
 - [**Part 2 — Trusting a repo now means trusting its MCP servers**](https://paolocostanzo.github.io/trusting-a-repo-means-trusting-its-mcp-servers/) *(13 Oct 2026)* — same repository, same harmless MCP server, eight AI coding agents, repeated measurements.
-- **Lab harness** — [repository](https://github.com/paolocostanzo/outside-the-prompt-lab), reproducible and with harmless canaries *(v0.2.1, 13 Oct 2026)* · DOI [10.5281/zenodo.23300292](https://doi.org/10.5281/zenodo.23300292)
+- **Lab harness** — [repository](https://github.com/paolocostanzo/outside-the-prompt-lab), reproducible and with harmless canaries *(v0.4.3, 25 Oct 2026)* · DOI [10.5281/zenodo.23300292](https://doi.org/10.5281/zenodo.23300292) (always the latest version)
 - **Preregistration** — frozen before the remaining measurements *(11 Oct 2026)* · DOI [10.5281/zenodo.23300369](https://doi.org/10.5281/zenodo.23300369)
 - [**Part 1 — What this summer's AI agent vulnerabilities have in common**](https://paolocostanzo.github.io/outside-the-prompt-ai-agent-vulnerabilities-summer-2026/) *(29 Sep 2026)* — ten disclosures classified by where they trigger. In six, the model never had to be fooled.
 
@@ -355,5 +371,7 @@ the method is the point, the value isn't.
 **`root@costanzo:~# CEO who codes · Lecturer who pentests · Researcher who ships · Diver who debugs`**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF6A00&height=100&section=footer" width="100%"/>
+
+<sub>AAIF and the AAIF logo design are registered trademarks of the Linux Foundation. Their use here indicates a project contribution and does not imply endorsement.</sub>
 
 </div>
