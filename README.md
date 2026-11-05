@@ -104,6 +104,8 @@ class PaoloCostanzo:
 
 | Year | Entry |
 |------|-------|
+| 🎓 2026 | **Certified LLM Security Expert (CLLMSE)** — Red Team Leaders: LLM & AI-agent security across 9 domains + hands-on lab ([verify](https://courses.redteamleaders.com/exam-completion/670213c83b17834a)) |
+| 🎓 2026 | **Certified Cybersecurity Educator Professional (CCEP)** — Red Team Leaders ([verify](https://courses.redteamleaders.com/exam-completion/a3ba0c4eeef3f062)) |
 | 🧪 2026 | **Outside the Prompt** — 4-part series complete, open lab harness + preregistration, both with Zenodo DOI |
 | 🏅 2026 | **Global 100 Winner** — GPMG, *Best Data Security Software Products Business of the Year* (CoDe) |
 | 🏅 2026 | **The Strategist Winner** — GPMG (CoDe) |
@@ -224,6 +226,8 @@ the method is the point, the value isn't.
 
 **2026**
 
+[![Certified LLM Security Expert (CLLMSE)](https://img.shields.io/badge/Certified_LLM_Security_Expert_(CLLMSE)-C8102E?style=flat-square)](https://courses.redteamleaders.com/exam-completion/670213c83b17834a)
+[![Certified Cybersecurity Educator Professional (CCEP)](https://img.shields.io/badge/Certified_Cybersecurity_Educator_Professional_(CCEP)-C8102E?style=flat-square)](https://courses.redteamleaders.com/exam-completion/a3ba0c4eeef3f062)
 ![AWS Academy Educator](https://img.shields.io/badge/AWS_Academy_Educator-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
 ![Claude Partner Badge](https://img.shields.io/badge/Claude_Partner_Badge_—_Claude_Code-D4A574?style=flat-square&logo=anthropic&logoColor=white)
 ![Secure AI/ML Dev](https://img.shields.io/badge/Secure_AI%2FML--Driven_Software_Dev-0094FF?style=flat-square&logo=linuxfoundation&logoColor=white)
