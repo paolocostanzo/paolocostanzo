@@ -107,11 +107,11 @@ class PaoloCostanzo:
 |------|-------|
 | 🎓 2026 | **Certified LLM Security Expert (CLLMSE)** — Red Team Leaders: LLM & AI-agent security across 9 domains + hands-on lab ([verify](https://courses.redteamleaders.com/exam-completion/670213c83b17834a)) |
 | 🎓 2026 | **Certified Cybersecurity Educator Professional (CCEP)** — Red Team Leaders ([verify](https://courses.redteamleaders.com/exam-completion/a3ba0c4eeef3f062)) |
-| 🧪 2026 | **Outside the Prompt** — 4-part series complete, open lab harness + preregistration, both with Zenodo DOI |
+| 🧪 2026 | **Outside the Prompt** — 4-part series complete, preprint, open lab harness + preregistration, all with Zenodo DOI |
 | 🏅 2026 | **Global 100 Winner** — GPMG, *Best Data Security Software Products Business of the Year* (CoDe) |
 | 🏅 2026 | **The Strategist Winner** — GPMG (CoDe) |
 | 🎓 2026 | **AWS Academy Educator** — certified to teach AWS cloud technologies |
-| 📄 2026 | **2 Preprints (Zenodo DOI)** — TRON Drainer-as-a-Service (Apr) + Operation Epic Fury (Mar) |
+| 📄 2026 | **3 Preprints (Zenodo DOI)** — Outside the Prompt (Nov) + TRON Drainer-as-a-Service (Apr) + Operation Epic Fury (Mar) |
 | 🎓 2025 | **Cisco Networking Academy Instructor** — teaching Cisco networking & security labs |
 | 🏅 2022 | **Up2Stars** — Intesa Sanpaolo, winner (innovative startups programme) |
 | 🥇 2022 | **1st Place AI Week** — best Italian AI project (CoDe) |
@@ -135,17 +135,18 @@ class PaoloCostanzo:
 
 ## `> cat /etc/research/publications.bib`
 
-**Now — Outside the Prompt** (Sep–Oct 2026): a four-part series on the trust boundaries of AI coding agents (configuration, startup, tool metadata, logs). Preprint planned for Nov 2026, then a peer-reviewed journal submission.
+**Now — Outside the Prompt** (Sep–Oct 2026): a four-part series on the trust boundaries of AI coding agents (configuration, startup, tool metadata, logs). Preprint published on 1 Nov 2026 ([Zenodo](https://zenodo.org/records/23867645)), submitted to a peer-reviewed journal.
 
 - [**Part 4 — Would your logs have caught it?**](https://paolocostanzo.github.io/would-your-logs-catch-it-ai-coding-agents/) *(27 Oct 2026)* — the events of parts 2 and 3 replayed in five AI coding agents: which default logs and host telemetry record them, against hours of normal use.
 - [**Part 3 — You approved the tool. Then it changed.**](https://paolocostanzo.github.io/approved-mcp-tools-can-change-after-you-say-yes/) *(20 Oct 2026)* — an approved MCP tool changes its description: none of eight AI coding agents asked for permission again because of the change.
 - [**Part 2 — Trusting a repo now means trusting its MCP servers**](https://paolocostanzo.github.io/trusting-a-repo-means-trusting-its-mcp-servers/) *(13 Oct 2026)* — same repository, same harmless MCP server, eight AI coding agents, repeated measurements.
-- **Lab harness** — [repository](https://github.com/paolocostanzo/outside-the-prompt-lab), reproducible and with harmless canaries *(v0.4.3, 25 Oct 2026)* · DOI [10.5281/zenodo.23300292](https://doi.org/10.5281/zenodo.23300292) (always the latest version)
+- **Lab harness** — [repository](https://github.com/paolocostanzo/outside-the-prompt-lab), reproducible and with harmless canaries *(v0.5.0, 1 Nov 2026)* · DOI [10.5281/zenodo.23300292](https://doi.org/10.5281/zenodo.23300292) (always the latest version)
 - **Preregistration** — frozen before the remaining measurements *(11 Oct 2026)* · DOI [10.5281/zenodo.23300369](https://doi.org/10.5281/zenodo.23300369)
 - [**Part 1 — What this summer's AI agent vulnerabilities have in common**](https://paolocostanzo.github.io/outside-the-prompt-ai-agent-vulnerabilities-summer-2026/) *(29 Sep 2026)* — ten disclosures classified by where they trigger. In six, the model never had to be fooled.
 
 **Preprints**
 
+- **[Outside the Prompt: Measuring Where AI Coding Agents Trust Repositories, Tools and Connectors](https://zenodo.org/records/23867645)** *(Nov 2026)* — preregistered study that brings together the four-part series: where AI coding agents place trust in repositories, MCP servers, tools and connectors, and what defenders can see in the logs. Not peer reviewed. · DOI [10.5281/zenodo.23867645](https://doi.org/10.5281/zenodo.23867645)
 - **[Anatomy of a TRON Wallet Drainer-as-a-Service](https://doi.org/10.5281/zenodo.19535888)** *(Apr 2026)* — affiliate-based cryptocurrency theft operations on the TRON network. $13,960 in documented stolen funds, Telegram infrastructure infiltrated, takedown and law-enforcement report in progress. · DOI [10.5281/zenodo.19535888](https://doi.org/10.5281/zenodo.19535888)
 - **[Operation Epic Fury: What the Reports Missed](https://doi.org/10.5281/zenodo.19227143)** *(Mar 2026)* — independent OSINT analysis of the Iranian dual-platform cyber campaign targeting Israeli civilians. Undisclosed Windows payload, secondary C2 at 0/94 on VirusTotal, infrastructure active 8 months before anyone noticed. · DOI [10.5281/zenodo.19227143](https://doi.org/10.5281/zenodo.19227143)
 
