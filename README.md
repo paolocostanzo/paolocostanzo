@@ -23,7 +23,7 @@
 <div align="center">
 
 <sub><code>// CONTRIBUTING TO</code></sub><br/><br/>
-<a href="https://aaif.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://paolocostanzo.github.io/brand/AAIF_Primary_Logo_White.svg" /><source media="(prefers-color-scheme: light)" srcset="https://paolocostanzo.github.io/brand/AAIF_Primary_Logo_Black.svg" /><img alt="Agentic AI Foundation" src="https://paolocostanzo.github.io/brand/AAIF_Primary_Logo_Black.svg" height="28" align="absmiddle" /></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/modelcontextprotocol/rust-sdk/pull/1402"><img src="https://img.shields.io/badge/Model_Context_Protocol_Rust_SDK-contributor-30363d?style=flat-square" height="20" align="absmiddle" alt="Model Context Protocol Rust SDK contributor" /></a>
+<a href="https://aaif.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://paolocostanzo.github.io/brand/AAIF_Primary_Logo_White.svg" /><source media="(prefers-color-scheme: light)" srcset="https://paolocostanzo.github.io/brand/AAIF_Primary_Logo_Black.svg" /><img alt="Agentic AI Foundation" src="https://paolocostanzo.github.io/brand/AAIF_Primary_Logo_Black.svg" height="28" align="absmiddle" /></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/modelcontextprotocol/rust-sdk/pull/1402"><img src="https://img.shields.io/badge/Model_Context_Protocol-contributor-30363d?style=flat-square" height="20" align="absmiddle" alt="Model Context Protocol contributor" /></a>
 <br/><br/>
 <a href="https://genai.owasp.org/initiatives/ai-red-teaming-initiative/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://paolocostanzo.github.io/brand/OWASP_GenAI_Security_Project_Logo_White.png" /><source media="(prefers-color-scheme: light)" srcset="https://paolocostanzo.github.io/brand/OWASP_GenAI_Security_Project_Logo_Black.png" /><img alt="OWASP GenAI Security Project" src="https://paolocostanzo.github.io/brand/OWASP_GenAI_Security_Project_Logo_Black.png" height="30" align="absmiddle" /></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://genai.owasp.org/initiatives/ai-red-teaming-initiative/"><img src="https://img.shields.io/badge/OWASP_GenAI_Security_Project-contributor-30363d?style=flat-square" height="20" align="absmiddle" alt="OWASP GenAI Security Project contributor" /></a>&nbsp;<a href="https://owasp.org/membership/"><img src="https://img.shields.io/badge/OWASP-member-30363d?style=flat-square" height="20" align="absmiddle" alt="OWASP member" /></a>&nbsp;<a href="https://github.com/OWASP/AISVS/pull/1204"><img src="https://img.shields.io/badge/OWASP_AISVS-contributor-30363d?style=flat-square" height="20" align="absmiddle" alt="OWASP AISVS contributor" /></a>
 
@@ -84,21 +84,21 @@ class PaoloCostanzo:
    │    ├─ €1M raised · 50+ customers across Europe
    │    └─ E2E encryption · granular IAM · secure cloud governance
    │
-   ├─ PID 2  [Lecturer] Cybersecurity & AWS — teaching since Sep 2020
+   ├─ PID 2  [Lecturer] Cybersecurity, AI & Cloud Security — teaching since Sep 2020
    │    ├─ ITS ICT Piemonte → course lead: Cyber Security Specialist · SOC Analyst ·
    │    │    AWS Cloud Architect — since Mar 2026
    │    ├─ AWS → architecture, Well-Architected, IaC (CloudFormation/CDK/Terraform)
    │    ├─ Forte Chance ETS → networking, Cisco labs, threat mgmt — since Jul 2025
-   │    ├─ Istituti Galilei → systems, networks, telecom — Sep 2020 → 2025 (closed)
+   │    ├─ Istituti Galilei → systems, networks, telecom — Sep 2020 → Jun 2026 (closed)
    │    └─ Methodology: recon → enum → exploit → report (yes, even in class)
    │
    ├─ PID 3  [Researcher] Cloud & AI Security · Threat Intel
    │    ├─ Outside the Prompt — AI coding agents & MCP trust boundaries
    │    │    (4-part series + open lab + preregistration, DOI) — Sep 2026 → now
-   │    ├─ Contributor — Model Context Protocol project (AAIF / Linux Foundation)
+   │    ├─ Contributor — Model Context Protocol (AAIF / Linux Foundation)
    │    │    — Rust SDK docs, released in rmcp v3.9.0 — since 2026
-   │    ├─ Contributor — OWASP AISVS, requirement 10.4.8 (MCP tool-definition
-   │    │    approval) — merged Nov 2026
+   │    ├─ OWASP Member — contributor: OWASP AISVS, OWASP GenAI Security Project
+   │    │    — AISVS req. 10.4.8 (merged Nov 2026) · AI red teaming containment & scoping
    │    ├─ CTF writeups — 15 rooms, methodology over flags — Jul–Aug 2026
    │    ├─ MCP spec conformance: an executable test for a MUST NOT (13/13) — Jul 2026
    │    ├─ Crypto-drainer DaaS: $13,960 traced, Telegram infra infiltrated — Apr 2026
