@@ -31,6 +31,18 @@
 
 ---
 
+### AI Security & Cloud Security Consultant — AI red teaming · detection · AI agent governance
+
+One problem: letting teams use AI agents and MCP servers without losing control of them.
+
+- **Test** — authorised red teaming of AI agents, MCP servers and the AWS/Azure environments they reach.
+- **Detect** — what agent activity shows up in the logs, and how to detect misuse ([Outside the Prompt, part 4](https://paolocostanzo.github.io/would-your-logs-catch-it-ai-coding-agents/)).
+- **Govern** — agent usage and MCP access policies, AI telemetry and data-retention requirements, for security teams to implement.
+
+Evidence: [OWASP AISVS req. 10.4.8](https://github.com/OWASP/AISVS/pull/1204) (re-approval of changed MCP tools) · OWASP GenAI red teaming containment & scoping guidance · [MCP Rust SDK](https://github.com/modelcontextprotocol/rust-sdk/pull/1402) contributor · Outside the Prompt preprint + open lab.
+
+---
+
 ## `> cat /proc/paolo/status`
 
 ```python
