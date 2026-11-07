@@ -85,7 +85,7 @@ class PaoloCostanzo:
    │    └─ E2E encryption · granular IAM · secure cloud governance
    │
    ├─ PID 2  [Lecturer] Cybersecurity, AI & Cloud Security — teaching since Sep 2020
-   │    ├─ ITS ICT Piemonte → course lead: Cyber Security Specialist · SOC Analyst ·
+   │    ├─ ITS ICT Piemonte → lecturer: Cyber Security Specialist · SOC Analyst ·
    │    │    AWS Cloud Architect — since Mar 2026
    │    ├─ AWS → architecture, Well-Architected, IaC (CloudFormation/CDK/Terraform)
    │    ├─ Forte Chance ETS → networking, Cisco labs, threat mgmt — since Jul 2025
