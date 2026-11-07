@@ -78,7 +78,7 @@ class PaoloCostanzo:
 
    ├─ PID 1  [CoDe RTD] Co-Founder & CEO — since Aug 2020
    │    ├─ AI-powered SaaS: digital content & identity protection
-   │    ├─ Multi-region AWS infra (encrypted, scalable, GDPR-compliant)
+   │    ├─ Multi-region AWS & Azure (encrypted, scalable, GDPR-compliant)
    │    ├─ AI-driven abuse detection at scale: accounts, copyright, piracy
    │    ├─ META tech partner — anti-piracy enforcement on social platforms
    │    ├─ €1M raised · 50+ customers across Europe
