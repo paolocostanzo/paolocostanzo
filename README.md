@@ -25,7 +25,7 @@
 <sub><code>// CONTRIBUTING TO</code></sub><br/><br/>
 <a href="https://aaif.io"><picture><source media="(prefers-color-scheme: dark)" srcset="https://paolocostanzo.github.io/brand/AAIF_Primary_Logo_White.svg" /><source media="(prefers-color-scheme: light)" srcset="https://paolocostanzo.github.io/brand/AAIF_Primary_Logo_Black.svg" /><img alt="Agentic AI Foundation" src="https://paolocostanzo.github.io/brand/AAIF_Primary_Logo_Black.svg" height="28" align="absmiddle" /></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://github.com/modelcontextprotocol/rust-sdk/pull/1402"><img src="https://img.shields.io/badge/Model_Context_Protocol-contributor-30363d?style=flat-square" height="20" align="absmiddle" alt="Model Context Protocol contributor" /></a>
 <br/><br/>
-<a href="https://genai.owasp.org/initiatives/ai-red-teaming-initiative/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://paolocostanzo.github.io/brand/OWASP_GenAI_Security_Project_Logo_White.png" /><source media="(prefers-color-scheme: light)" srcset="https://paolocostanzo.github.io/brand/OWASP_GenAI_Security_Project_Logo_Black.png" /><img alt="OWASP GenAI Security Project" src="https://paolocostanzo.github.io/brand/OWASP_GenAI_Security_Project_Logo_Black.png" height="30" align="absmiddle" /></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://genai.owasp.org/initiatives/ai-red-teaming-initiative/"><img src="https://img.shields.io/badge/OWASP_GenAI_Security_Project-contributor-30363d?style=flat-square" height="20" align="absmiddle" alt="OWASP GenAI Security Project contributor" /></a>&nbsp;<a href="https://owasp.org/membership/"><img src="https://img.shields.io/badge/OWASP-member-30363d?style=flat-square" height="20" align="absmiddle" alt="OWASP member" /></a>&nbsp;<a href="https://github.com/OWASP/AISVS/pull/1204"><img src="https://img.shields.io/badge/OWASP_AISVS-contributor-30363d?style=flat-square" height="20" align="absmiddle" alt="OWASP AISVS contributor" /></a>
+<a href="https://genai.owasp.org/initiatives/ai-red-teaming-initiative/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://paolocostanzo.github.io/brand/OWASP_GenAI_Security_Project_Logo_White.png" /><source media="(prefers-color-scheme: light)" srcset="https://paolocostanzo.github.io/brand/OWASP_GenAI_Security_Project_Logo_Black.png" /><img alt="OWASP GenAI Security Project" src="https://paolocostanzo.github.io/brand/OWASP_GenAI_Security_Project_Logo_Black.png" height="30" align="absmiddle" /></picture></a>&nbsp;&nbsp;&nbsp;<a href="https://genai.owasp.org/initiatives/ai-red-teaming-initiative/"><img src="https://img.shields.io/badge/OWASP_GenAI_Security_Project-contributor-30363d?style=flat-square" height="20" align="absmiddle" alt="OWASP GenAI Security Project contributor" /></a>&nbsp;<a href="https://owasp.org/membership/"><img src="https://img.shields.io/badge/OWASP-member-30363d?style=flat-square" height="20" align="absmiddle" alt="OWASP member" /></a>&nbsp;<a href="https://github.com/OWASP/AISVS/pulls?q=is%3Apr+author%3Apaolocostanzo+is%3Amerged"><img src="https://img.shields.io/badge/OWASP_AISVS-contributor-30363d?style=flat-square" height="20" align="absmiddle" alt="OWASP AISVS contributor" /></a>
 
 </div>
 
@@ -39,7 +39,7 @@ One problem: letting teams use AI agents and MCP servers without losing control 
 - **Detect** — what agent activity shows up in the logs, and how to detect misuse ([Outside the Prompt, part 4](https://paolocostanzo.github.io/would-your-logs-catch-it-ai-coding-agents/)).
 - **Govern** — agent usage and MCP access policies, AI telemetry and data-retention requirements, for security teams to implement.
 
-Evidence: [OWASP AISVS req. 10.4.8](https://github.com/OWASP/AISVS/pull/1204) (re-approval of changed MCP tools) · OWASP GenAI red teaming containment & scoping guidance · [MCP Rust SDK](https://github.com/modelcontextprotocol/rust-sdk/pull/1402) contributor · Outside the Prompt preprint + open lab.
+Evidence: [OWASP AISVS](https://github.com/OWASP/AISVS/pulls?q=is%3Apr+author%3Apaolocostanzo+is%3Amerged) – requirements 10.4.7, 10.4.8, 10.4.22 (MCP tool and server approval) · OWASP GenAI red teaming containment & scoping guidance · [MCP Rust SDK](https://github.com/modelcontextprotocol/rust-sdk/pull/1402) contributor · Outside the Prompt preprint + open lab.
 
 ---
 
@@ -98,7 +98,7 @@ class PaoloCostanzo:
    │    ├─ Contributor — Model Context Protocol (AAIF / Linux Foundation)
    │    │    — Rust SDK docs, released in rmcp v3.9.0 — since 2026
    │    ├─ OWASP Member — contributor: OWASP AISVS, OWASP GenAI Security Project
-   │    │    — AISVS req. 10.4.8 (merged Nov 2026) · AI red teaming containment & scoping
+   │    │    — AISVS reqs. 10.4.7, 10.4.8, 10.4.22 · AI red teaming containment & scoping
    │    ├─ CTF writeups — 15 rooms, methodology over flags — Jul–Aug 2026
    │    ├─ MCP spec conformance: an executable test for a MUST NOT (13/13) — Jul 2026
    │    ├─ Crypto-drainer DaaS: $13,960 traced, Telegram infra infiltrated — Apr 2026
