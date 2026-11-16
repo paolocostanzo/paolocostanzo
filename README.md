@@ -338,13 +338,13 @@ the method is the point, the value isn't.
 ## `> cat /var/www/blog/recent.log`
 
 <!-- BLOG-POST-LIST:START -->
-- ☁️ [Would your logs have caught it?](https://paolocostanzo.github.io/would-your-logs-catch-it-ai-coding-agents/)
-- 🇮🇷 [You approved the tool. Then it changed.](https://paolocostanzo.github.io/approved-mcp-tools-can-change-after-you-say-yes/)
-- 🌐 [Trusting a repo now means trusting its MCP servers](https://paolocostanzo.github.io/trusting-a-repo-means-trusting-its-mcp-servers/)
-- 💀 [Outside the Prompt: What This Summer&#39;s AI Agent Vulnerabilities Have in Common](https://paolocostanzo.github.io/outside-the-prompt-ai-agent-vulnerabilities-summer-2026/)
-- 📡 [Management Wants a Word — TryHackMe Hacker Holidays 2026 Day 14 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/management-wants-a-word/)
-- 🔴 [The Guestbook — TryHackMe Hacker Holidays 2026 Day 13 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/the-guestbook/)
-- 🔴 [After Hours — TryHackMe Hacker Holidays 2026 Day 12 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/after-hours/)<!-- BLOG-POST-LIST:END -->
+- ☁️ [How far does an offensive agent get on its own?](https://paolocostanzo.github.io/agente-offensivo-autonomo-holo/)
+- 🇮🇷 [Would your logs have caught it?](https://paolocostanzo.github.io/would-your-logs-catch-it-ai-coding-agents/)
+- 🌐 [You approved the tool. Then it changed.](https://paolocostanzo.github.io/approved-mcp-tools-can-change-after-you-say-yes/)
+- 💀 [Trusting a repo now means trusting its MCP servers](https://paolocostanzo.github.io/trusting-a-repo-means-trusting-its-mcp-servers/)
+- 📡 [Outside the Prompt: What This Summer&#39;s AI Agent Vulnerabilities Have in Common](https://paolocostanzo.github.io/outside-the-prompt-ai-agent-vulnerabilities-summer-2026/)
+- 🔴 [Management Wants a Word — TryHackMe Hacker Holidays 2026 Day 14 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/management-wants-a-word/)
+- 🔴 [The Guestbook — TryHackMe Hacker Holidays 2026 Day 13 Writeup](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/the-guestbook/)<!-- BLOG-POST-LIST:END -->
 
 > 📖 **[Read all posts → paolocostanzo.github.io](https://paolocostanzo.github.io)**
 
