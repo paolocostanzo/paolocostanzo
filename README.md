@@ -19,7 +19,7 @@
 [![Email](https://img.shields.io/badge/Contact-FF6A00?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:me@paolocostanzo.com)
 
 <br/>
-<a href="https://app.hackthebox.com/public/users/2960827"><img src="assets/htb-card.svg" width="420" alt="Hack The Box profile: rank and global ranking" /></a>
+<a href="https://app.hackthebox.com/public/users/2960827"><img src="assets/htb-card.svg" width="300" alt="Hack The Box profile: rank and global ranking" /></a>
 
 </div>
 
