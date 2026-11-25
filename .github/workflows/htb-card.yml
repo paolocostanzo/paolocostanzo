@@ -1,0 +1,26 @@
+name: HTB card
+
+on:
+  schedule:
+    - cron: "23 5 * * *" # daily; HTB updates rankings once a day
+  workflow_dispatch:
+
+jobs:
+  update-card:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate HTB card
+        run: python3 scripts/htb_card.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/htb-card-dark.svg assets/htb-card-light.svg assets/htb-state.json
+          git diff --cached --quiet || (git commit -m "chore: update HTB card" && git push)
