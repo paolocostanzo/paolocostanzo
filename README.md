@@ -18,8 +18,8 @@
 [![Blog](https://img.shields.io/badge/Security_Blog-181717?style=for-the-badge&logo=github&logoColor=white)](https://paolocostanzo.github.io)
 [![Email](https://img.shields.io/badge/Contact-FF6A00?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:me@paolocostanzo.com)
 
-[![Hack The Box](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Flabs.hackthebox.com%2Fapi%2Fv4%2Fprofile%2F2960827&query=%24.profile.rank&label=Hack%20The%20Box&logo=hackthebox&logoColor=9FEF00&color=111927&labelColor=1A2332&style=for-the-badge&cacheSeconds=3600)](https://app.hackthebox.com/public/users/2960827)
-[![HTB Global Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Flabs.hackthebox.com%2Fapi%2Fv4%2Fprofile%2F2960827&query=%24.profile.ranking&prefix=%23&label=Global%20rank&logo=hackthebox&logoColor=9FEF00&color=9FEF00&labelColor=1A2332&style=for-the-badge&cacheSeconds=3600)](https://app.hackthebox.com/public/users/2960827)
+<br/>
+<a href="https://app.hackthebox.com/public/users/2960827"><img src="assets/htb-card.svg" width="420" alt="Hack The Box profile: rank and global ranking" /></a>
 
 </div>
 
