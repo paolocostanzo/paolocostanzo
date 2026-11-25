@@ -179,6 +179,10 @@ the method is the point, the value isn't.
 
 <div align="center">
 
+[![Hack The Box](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Flabs.hackthebox.com%2Fapi%2Fv4%2Fprofile%2F2960827&query=%24.profile.rank&label=Hack%20The%20Box&logo=hackthebox&logoColor=9FEF00&color=111927&labelColor=1A2332&style=for-the-badge&cacheSeconds=3600)](https://app.hackthebox.com/public/users/2960827)
+[![HTB Global Rank](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Flabs.hackthebox.com%2Fapi%2Fv4%2Fprofile%2F2960827&query=%24.profile.ranking&prefix=%23&label=Global%20rank&logo=hackthebox&logoColor=9FEF00&color=9FEF00&labelColor=1A2332&style=for-the-badge&cacheSeconds=3600)](https://app.hackthebox.com/public/users/2960827)
+[![HTB Machines](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Flabs.hackthebox.com%2Fapi%2Fv4%2Fprofile%2F2960827&query=%24.profile.system_owns&label=Machines%20rooted&logo=hackthebox&logoColor=9FEF00&color=111927&labelColor=1A2332&style=for-the-badge&cacheSeconds=3600)](https://app.hackthebox.com/public/users/2960827)
+
 [![CTF Writeups](https://img.shields.io/badge/Hacker_Holidays_2026-15_rooms-FF6A00?style=for-the-badge&logo=tryhackme&logoColor=white)](https://paolocostanzo.github.io/ctf/hacker-holidays-2026/)
 [![All writeups](https://img.shields.io/badge/All_writeups-181717?style=for-the-badge&logo=github&logoColor=white)](https://paolocostanzo.github.io/ctf/)
 
