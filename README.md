@@ -189,6 +189,8 @@ the method is the point, the value isn't.
 
 > 🏨 *Byte Lotus Hotel* (TryHackMe Hacker Holidays, 25 Jul – 9 Aug 2026) — Day 0 to Day 14, one room a day across OSINT, web, cloud, forensics and boot2root.
 
+> 🧭 *TryHackMe* — Holo and Wreath networks (Active Directory, pivoting) · AI Security path.
+
 ---
 
 ## `> ls -la /opt/arsenal/`
@@ -272,7 +274,6 @@ the method is the point, the value isn't.
 ![Cisco Certified Instructor](https://img.shields.io/badge/Cisco_Certified_Instructor-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 ![Fortinet CyberSec](https://img.shields.io/badge/Fortinet_Certified_Associate-EE3124?style=flat-square&logo=fortinet&logoColor=white)
 ![FortiGate 7.6 Operator](https://img.shields.io/badge/FortiGate_7.6_Operator-EE3124?style=flat-square&logo=fortinet&logoColor=white)
-![Cyber Security Cert](https://img.shields.io/badge/Cyber_Security_Certificate-333333?style=flat-square&logo=tryhackme&logoColor=white)
 ![BLS-D](https://img.shields.io/badge/BLS--D-FF3333?style=flat-square)
 
 </div>
